@@ -8,3 +8,5 @@ Add the below tag in maven pom.xml to push the data to local Sonarcube server.<b
   Default username:admin<br>
   Password:admin<br>
   --------------------------------------------------------------------------------
+SonarQube Integration for Eclipse (update-site) -
+ http://downloads.sonarsource.com/eclipse/eclipse/
