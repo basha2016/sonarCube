@@ -1,10 +1,13 @@
 # sonarCube
 ------------------------------------------------------------------------------------
 Add the below tag in maven pom.xml to push the data to local Sonarcube server.<br>
-<properties><br>
+<properties>
    <sonar.host.url> http://localhost:9000/ </sonar.host.url><br>
-  </properties><br>
+  </properties>
   <br>
   Default username:admin<br>
   Password:admin<br>
+  
+  
+  SonarQube Integration for Eclipse (update-site) - http://downloads.sonarsource.com/eclipse/eclipse/
   --------------------------------------------------------------------------------
