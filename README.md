@@ -8,3 +8,5 @@ Add the below tag in maven pom.xml to push the data to local Sonarcube server.<b
   Default username:admin<br>
   Password:admin<br>
   --------------------------------------------------------------------------------
+Run using sonar:sonar Goal.
+
