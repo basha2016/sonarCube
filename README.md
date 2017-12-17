@@ -15,3 +15,5 @@ run sonar:sonar goal
 
 Below is the link for Customer rules:
 https://docs.sonarqube.org/display/DEV/API+Basics
+
+https://docs.sonarqube.org/display/DEV/Adding+Coding+Rules+using+Java
