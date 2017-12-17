@@ -12,3 +12,6 @@ SonarQube Integration for Eclipse (update-site) -
  http://downloads.sonarsource.com/eclipse/eclipse/
 
 run sonar:sonar goal
+
+Below is the link for Customer rules:
+https://docs.sonarqube.org/display/DEV/API+Basics
